@@ -63,4 +63,4 @@ Criar um simulador de empréstimos com funcionalidades completas, incluindo cada
 
 ---
 
-📄 Documentação completa disponível em PDF: [documentacao_projeto_final_sem_erro.pdf](./documentacao_projeto_final_sem_erro.pdf)
+
