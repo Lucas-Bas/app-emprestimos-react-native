@@ -1,5 +1,3 @@
-# app-emprestimos-react-native
-Simulador de empréstimos com cadastro de novos produtos ou exclusão, simulação e histórico.
 
 # 📱 App de Empréstimos - React Native
 
@@ -65,4 +63,4 @@ Criar um simulador de empréstimos com funcionalidades completas, incluindo cada
 
 ---
 
-
+📄 Documentação completa disponível em PDF: [documentacao_projeto_final_sem_erro.pdf](./documentacao_projeto_final_sem_erro.pdf)
